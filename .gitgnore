@@ -1,0 +1,5 @@
+# Arquivos e diretórios que serão ignorados nos commits por padrão 
+.*/
+
+# Outros arquivos ou diretórios
+gitComandos.txt
